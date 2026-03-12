@@ -3,9 +3,9 @@
 ### Project Overview
 An internal research repository dedicated to exploring multi-agent orchestration, automated code generation, and autonomous learning systems. This project is built by and for educational research purposes on **Arch Linux** and **EndeavourOS**.
 
-### Strategic Direction: Local Exocortex Swarm
+### Strategic Direction: Local Ecosystem Swarm
 We are actively building an **R&D Agentic Autonomous Learning System** aimed at solving Benjamin Bloom's "2 Sigma Problem" through personalized, AI-driven pedagogy. 
-Instead of a monolithic cloud LMS, we utilize a **Local-First Exocortex** architecture:
+Instead of a monolithic cloud LMS, we utilize a **Local-First Ecosystem** architecture:
 - **Graph Memory:** Tracking user cognitive states (Skill Nodes) using **GelDB** (EdgeDB).
 - **Local Inference:** Running routine routing and orchestration via **Ollama** (Gemma 3 / Qwen).
 - **Deep Pedagogy:** Socratic tutoring and complex evaluation handled by frontier models (Claude 3.5 Sonnet).

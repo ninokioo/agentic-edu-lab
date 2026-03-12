@@ -2,7 +2,7 @@
 
 ## 1. Background & Motivation (Expert Persona & Knowledge Curation)
 **Persona:** Chief AI Architect & Educational Technologist
-**Motivation:** Current EdTech relies on static LMS (Learning Management Systems). The future is dynamic, autonomous learning systems solving Benjamin Bloom's "2 Sigma Problem" (individual tutoring yields 2 standard deviations of improvement). By leveraging multi-agent systems and Model Context Protocol (MCP), we can create an "Exocortex"—a localized, privacy-first, autonomous cognitive framework that adapts to the learner in real-time.
+**Motivation:** Current EdTech relies on static LMS (Learning Management Systems). The future is dynamic, autonomous learning systems solving Benjamin Bloom's "2 Sigma Problem" (individual tutoring yields 2 standard deviations of improvement). By leveraging multi-agent systems and Model Context Protocol (MCP), we can create an "Ecosystem"—a localized, privacy-first, autonomous cognitive framework that adapts to the learner in real-time.
 
 **Key Literature/Concepts:**
 *   **Pedagogy:** Vygotsky’s Zone of Proximal Development (ZPD).
@@ -20,7 +20,7 @@ Instead of building a massive UI/LMS, we focus on the **Orchestrator Agent** and
 
 ## 3. Proposed Solution: The Autonomous Learning Swarm (Recursive Elevation)
 *First thought:* Build a chatbot that prompts the user with questions.
-*Elevated non-obvious solution:* Build an invisible, containerized **Exocortex Swarm** running locally (Ollama/Qwen3) that monitors user activity (e.g., IDE coding via MCP), proactively identifies skill gaps, and generates micro-curriculums on the fly. 
+*Elevated non-obvious solution:* Build an invisible, containerized **Ecosystem Swarm** running locally (Ollama/Qwen3) that monitors user activity (e.g., IDE coding via MCP), proactively identifies skill gaps, and generates micro-curriculums on the fly. 
 
 **Core Agents:**
 1.  **The Orchestrator:** Manages the student's cognitive state and delegates tasks.
